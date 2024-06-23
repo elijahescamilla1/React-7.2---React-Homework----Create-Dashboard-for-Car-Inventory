@@ -1,0 +1,16 @@
+.sign-out {
+    margin: 20px 0;
+  }
+  
+  .sign-out button {
+    padding: 10px 20px;
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .sign-out button:hover {
+    background-color: #c82333;
+  }
+  
